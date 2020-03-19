@@ -1,4 +1,6 @@
 #!/bin/bash
+#Author: Siddharth Lakhani
+#Description: The simple script to compare two versions of plugins or jar files anything.
 
 
 new=7.90.0
