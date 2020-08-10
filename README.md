@@ -6,3 +6,4 @@ The benefit of this script is it can compare the versions which having combinati
 
 Example, abc1.2.3 or ABC1.2.3.
 this text should be display
+test
